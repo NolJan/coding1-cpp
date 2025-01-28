@@ -47,6 +47,8 @@ int main()
     getline(cin, word);
    cout <<  addSpaces(word);
 
+   //This is to test updating the file in VS and then push to github
+
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
