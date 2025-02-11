@@ -3,10 +3,9 @@ using namespace std;
 #include <string>
 #include <cstdlib>
 #include <ctime>
-																// if the is a "?" before a comment, it was the instructions for the assignment
+																
 int main() {
 
-// ?welcome the player
 	srand(time(NULL));											// seeding, I admittedly don't fully understand this part, but whatevs
 	char pAnswer = 'y';											// setup for player input on intro questions
 	string playerName = "null";									// playerName, initialized with placeholder text, wasn't in the instructions, but I liked the idea of having a custom name
@@ -26,7 +25,7 @@ int main() {
 		cout << "\nAre you sure? Be warned, once you enter the gauntlet, you or your enemy must perish...so I ask again, do you wish to depart on an adventure?\n";
 		cin >> pAnswer;
 		if (pAnswer == 'y') {
-			// I don't know why I've decided to do a creative writing assignment right now, this might the clunkiest tutorial ever made, but why not, yknow
+																// I don't know why I've decided to do a creative writing assignment right now, this might the clunkiest tutorial ever made, but why not, yknow
 			cout << "\nVery well! I see you are an individual of great courage. Even so, I insist on giving you some guidance, lest you perish before taking your second step down your path.";
 			cout << "\nYou shall find an endless number of inscrutuble creatures, who are so simple minded and vile, the only purpose they serve is to take you to the fiery depths they emerged from themselves.";
 			cout << "\nLuckily, I am able to provide you some semblence of aid. After each fight, there will be a brief moment I'll be able to commune with you. During this time, if you wish, I shall return you here, to the beginning.";
@@ -37,7 +36,7 @@ int main() {
 
 			cout << "\n\n\n In battle, type 'attack' to make a slash at your enemy, or 'block' for a 50% bonus to your defences.";
 	
-			while (cont == 'y'){												// man i'm only like 60% sure of what I'm doing
+			while (cont == 'y'){								// man i'm only like 60% sure of what I'm doing
 				turn = 0;
 				cout << "\nA new creature stands before you.";						
 				int creatureAttack = (rand() % 3) + 1;							// determine creatures attack power, randomized 1-3
@@ -89,7 +88,7 @@ int main() {
 				}
 				cout << "\nContinue?";										// if loop exited due to victory, asks if the player wants to continue
 				cin >> cont;												// takes player input to see if gameplay loop should continue
-			}// end of play loop
+			}	// end of play loop
 		}
 		if (pAnswer == 'n') {							
 			cout << "\nI see...there is no shame in knowing ones one limits, depart from this place then!";
@@ -102,4 +101,4 @@ int main() {
 	}
 	cout << "\nThe game is over. You won " << battlesWon << " battles, good job!";				// text to tell player their score
 cout << "\n\n\n\n\.";																			// I don't like the command window game ending with the exit instructions of vstudio, so this adds space			
-}// end of main
+}				// end of main
