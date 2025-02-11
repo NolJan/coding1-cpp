@@ -1,0 +1,6 @@
+﻿  cod1week3adventure1.0.cpp
+C:\Users\Perse\GitHub\coding1-cpp\cod1week3adventure1.0\cod1week3adventure1.0.cpp(12,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Perse\GitHub\coding1-cpp\cod1week3adventure1.0\cod1week3adventure1.0.cpp(70,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Perse\GitHub\coding1-cpp\cod1week3adventure1.0\cod1week3adventure1.0.cpp(104,12): warning C4129: '.': unrecognized character escape sequence
+C:\Users\Perse\GitHub\coding1-cpp\cod1week3adventure1.0\cod1week3adventure1.0.cpp(130,9): warning C4129: '.': unrecognized character escape sequence
+  cod1week3adventure1.0.vcxproj -> C:\Users\Perse\GitHub\coding1-cpp\cod1week3adventure1.0\x64\Debug\cod1week3adventure1.0.exe
