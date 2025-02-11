@@ -5,9 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D406F7C8-E272-4E72-AEB8-01F32155920F}|cod1week3adventure1.0.vcxproj|C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week3adventure1.0\\cod1week3adventure1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D406F7C8-E272-4E72-AEB8-01F32155920F}|cod1week3adventure1.0.vcxproj|solutionrelative:cod1week3adventure1.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Perse\\source\\repos\\coding1\\cod1week3varLogic.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,21 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "cod1week3varLogic.cpp",
-              "DocumentMoniker": "C:\\Users\\Perse\\source\\repos\\coding1\\cod1week3varLogic.cpp",
-              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\coding1\\cod1week3varLogic.cpp",
-              "ToolTip": "C:\\Users\\Perse\\source\\repos\\coding1\\cod1week3varLogic.cpp",
-              "RelativeToolTip": "..\\..\\..\\source\\repos\\coding1\\cod1week3varLogic.cpp",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-11T00:14:15.199Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +24,7 @@
               "RelativeDocumentMoniker": "cod1week3adventure1.0.cpp",
               "ToolTip": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week3adventure1.0\\cod1week3adventure1.0.cpp*",
               "RelativeToolTip": "cod1week3adventure1.0.cpp*",
-              "ViewState": "AgIAACQAAAAAAAAAAADwvzYAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-10T23:23:39.197Z",
               "EditorCaption": ""
