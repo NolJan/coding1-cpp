@@ -127,8 +127,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="cod1week2pairProgTest.cpp" />
-    <ClCompile Include="cod1week3adventure1.0.cpp" />
     <ClCompile Include="cod1week6loopsAndLists.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

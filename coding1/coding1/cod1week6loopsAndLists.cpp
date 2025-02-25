@@ -14,5 +14,11 @@ int main() {
 
 	int element = 0;					// Tracks where array location is
 
-	int scores[MAX_SIZE];		
+	int scores[MAX_SIZE];				// THis arrary has 10 slots for integer values to be held
+
+	// Add a value to the first element for the array
+	scores[0] = 9001;
+
+	// Display the value to confirm that it works
+	cout << "The highest score in scores is " << scores[0] << ".\n";
 }
