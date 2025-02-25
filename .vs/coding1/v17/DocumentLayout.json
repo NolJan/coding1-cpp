@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{11BA22DD-C005-41FD-B225-EF6AEB355A05}|coding1.vcxproj|C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{11BA22DD-C005-41FD-B225-EF6AEB355A05}|coding1.vcxproj|solutionrelative:cod1week6loopsAndLists.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{11BA22DD-C005-41FD-B225-EF6AEB355A05}|coding1.vcxproj|C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6favGamesHW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{11BA22DD-C005-41FD-B225-EF6AEB355A05}|coding1.vcxproj|solutionrelative:cod1week6favGamesHW.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "cod1week6loopsAndLists.cpp",
-              "DocumentMoniker": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6loopsAndLists.cpp",
-              "RelativeDocumentMoniker": "cod1week6loopsAndLists.cpp",
-              "ToolTip": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6loopsAndLists.cpp",
-              "RelativeToolTip": "cod1week6loopsAndLists.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Title": "cod1week6favGamesHW.cpp",
+              "DocumentMoniker": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6favGamesHW.cpp",
+              "RelativeDocumentMoniker": "cod1week6favGamesHW.cpp",
+              "ToolTip": "C:\\Users\\Perse\\GitHub\\coding1-cpp\\cod1week6favGamesHW.cpp",
+              "RelativeToolTip": "cod1week6favGamesHW.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-25T16:19:43.551Z",
+              "WhenOpened": "2025-02-25T17:42:19.945Z",
               "EditorCaption": ""
             }
           ]

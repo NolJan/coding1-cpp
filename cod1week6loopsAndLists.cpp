@@ -81,4 +81,9 @@ int main() {
 														// Outputs friends in order of array, also outputs the order of the friends added
 		cout << "Your " << i + 1 << "(st,nd,rd,th) listed friend is: \t" << bestFriends[i] <<".\n";	
 	}
+
+
+	// "continue" stops the code at that line, goes to the next loop
+
+	
 }
