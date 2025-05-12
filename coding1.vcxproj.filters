@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cod1week6favGamesHW.cpp">
+    <ClCompile Include="cod1week10functions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
